@@ -1,0 +1,28 @@
+июн. 12, 2023 6:32:42 PM Homework.task_2 start
+INFO: Запуск программы
+июн. 12, 2023 6:32:42 PM Homework.task_2 CreateArray
+INFO: Создан массив: [55, 25, 21, 66, 34, 74, 47, 13, 93, 42]
+июн. 12, 2023 6:32:42 PM Homework.task_2 SortArray
+INFO: Начало сортировки
+июн. 12, 2023 6:32:42 PM Homework.task_2 SortArray
+INFO: Итерация №0: [25, 21, 55, 34, 66, 47, 13, 74, 42, 93]
+июн. 12, 2023 6:32:42 PM Homework.task_2 SortArray
+INFO: Итерация №1: [21, 25, 34, 55, 47, 13, 66, 42, 74, 93]
+июн. 12, 2023 6:32:42 PM Homework.task_2 SortArray
+INFO: Итерация №2: [21, 25, 34, 47, 13, 55, 42, 66, 74, 93]
+июн. 12, 2023 6:32:42 PM Homework.task_2 SortArray
+INFO: Итерация №3: [21, 25, 34, 13, 47, 42, 55, 66, 74, 93]
+июн. 12, 2023 6:32:42 PM Homework.task_2 SortArray
+INFO: Итерация №4: [21, 25, 13, 34, 42, 47, 55, 66, 74, 93]
+июн. 12, 2023 6:32:42 PM Homework.task_2 SortArray
+INFO: Итерация №5: [21, 13, 25, 34, 42, 47, 55, 66, 74, 93]
+июн. 12, 2023 6:32:42 PM Homework.task_2 SortArray
+INFO: Итерация №6: [13, 21, 25, 34, 42, 47, 55, 66, 74, 93]
+июн. 12, 2023 6:32:42 PM Homework.task_2 SortArray
+INFO: Итерация №7: [13, 21, 25, 34, 42, 47, 55, 66, 74, 93]
+июн. 12, 2023 6:32:42 PM Homework.task_2 SortArray
+INFO: Итерация №8: [13, 21, 25, 34, 42, 47, 55, 66, 74, 93]
+июн. 12, 2023 6:32:42 PM Homework.task_2 SortArray
+INFO: Итерация №9: [13, 21, 25, 34, 42, 47, 55, 66, 74, 93]
+июн. 12, 2023 6:32:42 PM Homework.task_2 SortArray
+INFO: Конец сортировки
